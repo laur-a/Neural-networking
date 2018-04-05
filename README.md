@@ -5,7 +5,7 @@
 
 ## Where am I?
 
-Here are some things I know **and** are related to the course
+This is the starting point - where I am now. Here are some things I know **and** are related to the course
 
 1. Psychology _(my major)_
    - neuropsychology
