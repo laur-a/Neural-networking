@@ -1,8 +1,8 @@
 # Neural-networking
-***
+
    This page is a goal-setting for course in human brain connectivity!  
    _(And getting to know GitHub)_  
-
+***
 ## Where am I?
 
 This is the starting point - where I am now. Here are some things I know **and** are related to the course
