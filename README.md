@@ -1,5 +1,5 @@
 # Neural-networking
-
+***
    This page is a goal-setting for course in human brain connectivity!  
    _(And getting to know GitHub)_  
 
