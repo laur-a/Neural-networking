@@ -32,8 +32,8 @@ Here I'll describe what I'd like to achieve during this course.
 
  
  
-![alt text](http://rsif.royalsocietypublishing.org/content/royinterface/11/101/20140873/F6.large.jpg "Demonstrative picture. Some deviation from this model may occur in your brain")
-The connections between brain nodes a) before this course b) after this course
+![alt text](http://rsif.royalsocietypublishing.org/content/royinterface/11/101/20140873/F6.large.jpg)
+Does the brain connectivity change after learning about brain connectivity? The connections between brain nodes a) before this course b) after this course
 
 Picture originally fetched from the article [Homological scaffolds of brain functional networks](http://rsif.royalsocietypublishing.org/content/11/101/20140873) (2014) by Petri et. al.
 ***
